@@ -1,0 +1,92 @@
+body { 
+    color: #1d334a;
+    font-family: Verdana;
+    font-size: small;
+    background-color: #d4e7fa;
+}
+.white-background {
+    background-color: #e5ded40e; 
+}
+.header-border {
+    border: 2px double #194470;
+    border-radius: 30px;
+    padding: 2%;
+    color: #ffffff;
+}
+#header {
+    background-color: #4f8bc9;
+    text-align: center;
+}
+.winc-link {
+    color: #1d334a; 
+}
+header {
+    border: 2px solid #194470;
+    padding: 0px 15px;
+    margin-bottom: 30px;
+}
+nav {
+    border: 1px solid #4f8bc9;
+    padding: 15px 0px;
+    margin: 0 auto;
+    width: 40%;
+    text-align: center;
+}
+.menu ul li{
+    display: inline;
+    padding: 0 5px;
+}
+main {
+    border: 1px solid #194470;
+    padding: 15px 15px;
+    margin-bottom: 15px;
+}
+article {
+    border: 1px solid #194470;
+    padding: 0px 15px;
+    margin-bottom: 15px;
+}
+.quote {
+    margin: 1em 3em;
+	border-left: 2px solid;
+	padding-left: 40px;
+    margin: 10px;
+    float: right;
+    width: 300px;
+    font-style: italic;
+}
+.image { 
+    float:left;
+    padding-right: 20px;
+}
+.voorstelrondje { 
+    width: 400px;
+    color: #100f14;
+}
+.name {
+    font-size: 43px;
+    color: #100f14;
+}
+.link-naar-motivatie {
+    font-size: 11px;
+    color: #c07e6d;
+}
+a {
+    color: #4f8bc9;
+    font-weight: bold;
+}
+.kleur-motivatielink {
+    color: #6a4d45;
+}
+.kleur-motivatielink:hover {
+    color: #100f14;
+}
+a:hover {
+    color: #4f8bc9;
+} 
+footer{
+    border: 1px dotted #194470;
+    padding: 15px 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
